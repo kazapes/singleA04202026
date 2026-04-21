@@ -1,0 +1,8 @@
+pwd – Present working directory
+ls– list the file
+mkdir – make a folder add name after mkdir
+cd- change directory
+cd .. - go up a folder
+## Do homework ##
+1-3 https://killercoda.com/pawelpiwosz/course/gitFundamentals 
+1-7 https://killercoda.com/pawelpiwosz/course/linuxFundamentals
