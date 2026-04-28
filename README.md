@@ -48,3 +48,33 @@ Since OUTPUT_DIR is "output", this variable effectively becomes "output/fruits_p
 **Goal: See if you can get the output on line 20 by intentionlly causing an error.**
 
 - **Answer**: `You can intentionally cause an error by renaming, moving, or deleting the file that's associated with INPUT_FILE. I renamed the file to test1.txt. The output will be "Error: Input file not found!"`
+
+## Single  A 04/27/2026
+### 1. 🌍 How to Create a branch
+- git branch "name"
+-git branch -l list the branch
+or 
+-git checkout -b ross-branch
+-git status
+-git add -A
+-git status
+- git commit -m "first commit"
+- git push --set-upstream origin ross-branch
+- After merge
+- Do a git pull
+- git pull
+
+### 2. Add Collaborator
+- Go to your Repo
+- Go to Setting
+-Click on Collaborator
+- Click add people
+- Fill out name
+- Send invite
+
+### 3. Rob gave codet resource need to provi
+- windows: copy the below code, open gitbash, paste the code into gitbash, and run the commands
+
+Mac/Linux: copy the below code, open Terminal, paste the code into terminal, and run the commands
+mkdir -p $HOME/documents/TheoWAF/CloudProvingGround/CloudFundamentals/{_dev,_knownGoodCode,_Submissions,Notes,Homework,Classes,Books,Files}
+mkdir -p $HOME/documents/TheoWAF/CloudProvingGround/CloudCertifications/{_dev,_knownGoodCode,_Submissions,Notes,Homework,Classes,Books,Files}

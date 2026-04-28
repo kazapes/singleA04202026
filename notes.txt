@@ -6,3 +6,4 @@ cd .. - go up a folder
 ## Do homework ##
 1-3 https://killercoda.com/pawelpiwosz/course/gitFundamentals 
 1-7 https://killercoda.com/pawelpiwosz/course/linuxFundamentals
+Ali and I are working together 4pm PST or 7pm EST 
